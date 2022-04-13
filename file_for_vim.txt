@@ -1,5 +1,0 @@
-
-Some text that should be added to the file for the third time.
-Another one addition to make the next version of the file. 
-And this one. 
-And this.  
